@@ -1,5 +1,7 @@
-# whitepaper
-# initial commits by: Samuel T Sendon II
+# Lotus Token Network
+# Whitepaper
+
+Initial commits, vision, and use cases by: Samuel T Sendon II
 
 The Lotus Token Network whitepaper contains the details of this cryptocurrency project as follows:
 
