@@ -9,8 +9,9 @@ The Lotus Token Network whitepaper contains the details of this cryptocurrency p
 4. Use Cases
 5. Coin Supply
 6. Coin Distribution
-7. ICO Procedure
-8. Core Group
-9. Advisers
-10.Partners
-11.Others (TBD among core members)
+7. Funding Goals
+8. ICO Procedure
+9. Core Group
+10. Advisers
+11.Partners
+12.Others (TBD among core members)
