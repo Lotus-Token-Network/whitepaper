@@ -9,8 +9,8 @@ The Lotus Token Network whitepaper contains the details of this cryptocurrency p
 2. Technical Specifications
 3. Target Market
 4. Use Cases
-5. Coin Supply
-6. Coin Distribution
+5. Token Supply
+6. Token Distribution
 7. Funding Goals
 8. Crowdsale Procedures (Angel Investors, Pre-Sale, ICO, Possible Airdrop)
 9. Core Group
