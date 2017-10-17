@@ -10,7 +10,7 @@ The Lotus Token Network whitepaper contains the details of this cryptocurrency p
 5. Coin Supply
 6. Coin Distribution
 7. Funding Goals
-8. ICO Procedure
+8. Crowdsale Procedures (Angel Investors, Pre-Sale, ICO, Possible Airdrop)
 9. Core Group
 10. Advisers
 11.Partners
