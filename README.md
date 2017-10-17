@@ -11,9 +11,10 @@ The Lotus Token Network whitepaper contains the details of this cryptocurrency p
 4. Use Cases
 5. Token Supply
 6. Token Distribution
-7. Funding Goals
-8. Crowdsale Procedures (Angel Investors, Pre-Sale, ICO, Possible Airdrop)
-9. Core Group
-10. Advisers
-11.Partners
-12.Others (TBD among core members)
+7. Budget Allocation
+8. Funding Goals
+9. Crowdsale Procedures (Angel Investors, Pre-Sale, ICO, Possible Airdrop)
+10. Core Group
+11. Advisers
+12.Partners
+13.Others (TBD among core members)
